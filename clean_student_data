@@ -1,0 +1,81 @@
+Student_ID,Course,City,Part_Time_Job,Attendance_pct,Study_Hours,Attendance_pct,Assignment_Score,Quiz_Score,Previous_Marks,Final_Marks,Passed,At_Risk
+S001,Data Science,Lahore,No,70.0,5.4,70.0,60.0,51,46.0,52.0,False,True
+S002,Web Dev,Rawalpindi,No,76.0,10.2,76.0,70.0,62,72.0,54.0,False,True
+S003,AI fundamentals,Rawalpindi,No,73.0,13.9,73.0,69.0,71,60.0,70.0,True,True
+S004,Web Dev,Lahore,No,82.0,12.8,82.0,96.0,68,77.0,71.0,True,False
+S005,Web Development, Faisalabad ,No,76.0,9.5,76.0,79.0,59,88.0,68.0,True,True
+S006,Data Science, Karachi ,No,60.0,,60.0,35.0,51,55.0,41.0,False,True
+S007, AI Fundamentals ,faisalabad,No,77.0,5.1,77.0,56.0,54,60.0,64.0,True,True
+S008,Web Dev,faisalabad,No,94.0,14.1,94.0,96.0,75,67.0,71.0,True,False
+S009,AI Fundamentals,Faisalabad,Yes,105.0,14.8,105.0,76.0,65,63.0,76.0,True,False
+S010,ai fundamentals,Islamabad,No,79.0,5.4,79.0,53.0,50,57.0,42.0,False,True
+S011, Web Development , Faisalabad ,Yes,99.0,15.5,99.0,77.0,70,60.0,63.0,True,False
+S012,Web Development,lahore,No,74.0,5.1,74.0,69.0,57,61.0,76.0,True,True
+S013, Web Development , Karachi ,No,,10.1,,81.0,59,69.0,64.0,True,False
+S014,data science,LAHORE,Yes,77.0,13.2,77.0,83.0,76,66.0,70.0,True,True
+S015,Web Development,Lahore,No,99.0,13.7,99.0,75.0,76,67.0,68.0,True,False
+S016,AI Fundamentals,islamabad,No,80.0,11.3,80.0,66.0,67,69.0,67.0,True,False
+S017,ai fundamentals,Faisalabad,Yes,94.0,15.5,94.0,87.0,63,66.0,73.0,True,False
+S018,AI fundamentals, Faisalabad ,No,93.0,15.1,93.0,87.0,92,75.0,87.0,True,False
+S019,Web Dev, Rawalpindi ,No,96.0,15.9,96.0,88.0,75,96.0,92.0,True,False
+S020, Data Science ,Faisalabad,No,56.0,6.2,56.0,,31,63.0,47.0,False,True
+S021,web development, Karachi ,No,75.0,9.1,75.0,88.0,76,69.0,73.0,True,True
+S022,ai fundamentals,Faisalabad,No,59.0,3.1,59.0,66.0,30,38.0,43.0,False,True
+S023,Data Science,Islamabad,No,73.0,11.3,73.0,83.0,87,49.0,69.0,True,True
+S024,Data Science, Rawalpindi ,No,48.0,0.0,48.0,59.0,47,73.0,42.0,False,True
+S025,AI fundamentals,Karachi,Yes,71.0,7.6,71.0,66.0,58,53.0,47.0,False,True
+S026,data science,Islamabad,No,77.0,10.4,77.0,60.0,80,40.0,67.0,True,True
+S027,Web Dev, Faisalabad ,No,83.0,7.1,83.0,67.0,51,69.0,69.0,True,False
+S028,Web Development,Karachi,No,68.0,11.3,68.0,60.0,79,74.0,71.0,True,True
+S029,AI fundamentals,islamabad,Yes,75.0,8.2,75.0,75.0,74,53.0,66.0,True,True
+S030,ai fundamentals,Karachi,No,70.0,5.4,70.0,37.0,55,68.0,54.0,False,True
+S031,data science,Lahore,No,71.0,5.1,71.0,41.0,37,61.0,50.0,False,True
+S032,Web Dev, Faisalabad ,Yes,70.0,8.0,70.0,73.0,51,,74.0,True,True
+S033,data science, Rawalpindi ,Yes,74.0,5.8,74.0,61.0,51,68.0,55.0,False,True
+S034,AI Fundamentals, Islamabad ,Yes,71.0,7.8,71.0,66.0,69,73.0,58.0,False,True
+S035,Web Dev,islamabad,No,74.0,9.5,74.0,50.0,72,58.0,56.0,False,True
+S036,data science, Karachi ,No,71.0,2.4,71.0,110.0,53,68.0,52.0,False,True
+S037,web development,islamabad,No,77.0,5.9,77.0,55.0,59,50.0,55.0,False,True
+S038,Web Dev,Karachi,No,76.0,10.7,76.0,72.0,77,85.0,82.0,True,True
+S039,ai fundamentals,karachi,No,88.0,10.1,88.0,64.0,72,61.0,70.0,True,False
+S040, Web Development ,Lahore,No,74.0,9.5,74.0,66.0,58,64.0,60.0,False,True
+S041,AI fundamentals,karachi,Yes,89.0,12.3,89.0,74.0,74,58.0,61.0,True,False
+S042,data science,karachi,No,79.0,8.5,79.0,69.0,66,71.0,62.0,True,True
+S043, Web Development ,Faisalabad,Yes,99.0,15.3,99.0,91.0,58,76.0,73.0,True,False
+S044, Web Development , Islamabad ,Yes,59.0,7.2,59.0,53.0,53,74.0,54.0,False,True
+S045,AI fundamentals,Islamabad,No,87.0,15.3,87.0,77.0,76,66.0,61.0,True,False
+S046,Web Development,lahore,No,53.0,2.6,53.0,57.0,48,68.0,,False,True
+S047, Data Science ,Karachi,Yes,72.0,15.2,72.0,86.0,72,77.0,70.0,True,True
+S048,Web Dev, Faisalabad ,No,64.0,5.2,64.0,45.0,49,40.0,50.0,False,True
+S049,Web Dev, Karachi ,NO,73.0,5.7,73.0,61.0,46,57.0,46.0,False,True
+S050,ai fundamentals,lahore,No,91.0,13.0,91.0,67.0,59,80.0,65.0,True,False
+S051, Web Development ,lahore,No,87.0,10.3,87.0,50.0,52,71.0,56.0,False,False
+S052,AI fundamentals,LHR,Yes,71.0,3.3,71.0,69.0,41,38.0,45.0,False,True
+S053,Data Science,rawalpindi,Yes,75.0,16.0,75.0,92.0,90,73.0,72.0,True,True
+S054, Data Science ,Faisalabad,Yes,66.0,3.2,66.0,51.0,51,58.0,38.0,False,True
+S055,ai fundamentals,faisalabad,Yes,86.0,12.6,86.0,88.0,80,65.0,74.0,True,False
+S056,AI fundamentals,lahore,Yes,69.0,8.5,69.0,79.0,73,48.0,64.0,True,True
+S057,AI fundamentals,karachi,No,69.0,14.9,69.0,81.0,81,68.0,71.0,True,True
+S058,web development,Rawalpindi,Yes,67.0,9.5,67.0,61.0,73,55.0,57.0,False,True
+S059,Data Science, Lahore ,Yes,85.0,11.9,85.0,65.0,57,53.0,69.0,True,False
+S060,Web Dev,LAHORE,Yes,80.0,12.1,80.0,62.0,77,76.0,73.0,True,False
+S061,DataScience,faisalabad,Yes,87.0,10.8,87.0,64.0,50,64.0,62.0,True,False
+S062,Data Science,Rawalpindi,No,99.0,14.6,99.0,99.0,80,71.0,89.0,True,False
+S063,Web Development,Karachi,Yes,81.0,14.2,81.0,75.0,79,70.0,65.0,True,False
+S064, Web Development , Islamabad ,No,81.0,10.9,81.0,65.0,69,71.0,61.0,True,False
+S065,web development,Islamabad,Yes,55.0,5.8,55.0,52.0,52,56.0,43.0,False,True
+S066,ai fundamentals, Karachi ,No,81.0,14.6,81.0,76.0,67,61.0,70.0,True,False
+S067,AI fundamentals, Karachi ,Yes,90.0,9.4,90.0,58.0,61,84.0,53.0,False,False
+S068,AI fundamentals, Rawalpindi ,No,64.0,3.3,64.0,45.0,52,62.0,55.0,False,True
+S069,AI fundamentals,karachi,Yes,86.0,10.7,86.0,68.0,53,58.0,57.0,False,False
+S070, AI Fundamentals ,islamabad,No,55.0,3.4,55.0,55.0,43,41.0,49.0,False,True
+S071,AI fundamentals, Rawalpindi ,No,86.0,15.1,86.0,98.0,78,85.0,82.0,True,False
+S072,Data Science,LAHORE,No,88.0,11.3,88.0,64.0,55,86.0,68.0,True,False
+S073, Data Science , Karachi ,No,86.0,13.4,86.0,95.0,75,58.0,71.0,True,False
+S074, Data Science , Lahore ,No,99.0,10.2,99.0,77.0,64,74.0,78.0,True,False
+S075,Data Science,LAHORE,Yes,55.0,5.1,55.0,45.0,64,50.0,45.0,False,True
+S076, Web Development ,Lahore,No,90.0,10.5,90.0,78.0,68,58.0,62.0,True,False
+S077,data science,Lahore,No,84.0,12.1,84.0,85.0,70,78.0,67.0,True,False
+S078,AI Fundamentals,Rawalpindi,No,88.0,13.6,88.0,82.0,75,70.0,60.0,False,False
+S017,ai fundamentals,Faisalabad,Yes,94.0,15.5,94.0,87.0,63,66.0,73.0,True,False
+S045,AI fundamentals,Islamabad,No,87.0,15.3,87.0,77.0,76,66.0,61.0,True,False
